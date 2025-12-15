@@ -7,7 +7,7 @@ first_name: Isaac
 middle_name: EUC
 last_name: Rankin
 contact_note: >
-  Feel free to reach out via email or connect with me on LinkedIn.
+  Feel free to reach out via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Statistics at UBC focusing on Bayesian optimization, variational inference, 
   and uncertainty quantification, with applications in drug discovery.
