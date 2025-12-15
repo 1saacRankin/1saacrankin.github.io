@@ -2,30 +2,9 @@
   "basics": {
     "name": "Isaac Rankin",
     "label": "PhD Student in Statistics",
-    "image": "",
     "email": "isaac dot rankin at stat dot ubc dot ca",
-    "phone": "",
     "url": "https://1saacrankin.github.io/",
-    "summary": "PhD student in Statistics at the University of British Columbia with research interests in probabilistic modeling, computational chemistry, and drug discovery. Co-President of the Statistics Graduate Student Association (SGSA).",
-    "location": {
-      "address": "Department of Statistics, 3182 Earth Sciences Building, 2207 Main Mall, UBC",
-      "postalCode": "V6T 1Z4",
-      "city": "Vancouver",
-      "countryCode": "CA",
-      "region": "BC"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "1saacRankin",
-        "url": "https://github.com/1saacRankin"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "isaac-edward-rankin",
-        "url": "https://www.linkedin.com/in/isaac-edward-rankin"
-      }
-    ]
+    "summary": "I am a PhD student in Statistics at the University of British Columbia. I completed an MSc in Statistical Science at the University of Oxford, where I worked on conditional diffusion models for structure-based drug design, and a BSc in Mathematics and Statistics at the University of Victoria focused on statistical methodology. My research interests include variational inference, Bayesian optimization, and uncertainty quantification, with applications in drug discovery."
   },
 
   "education": [
@@ -35,9 +14,9 @@
       "url": "https://www.stat.ubc.ca/",
       "area": "Statistics",
       "studyType": "PhD",
-      "startDate": "2025-01-01",
-      "endDate": "2029-12-31",
-      "summary": "Co-President of the Statistics Graduate Student Association (SGSA). Supervisor: Dr. Geoff Pleiss"
+      "startDate": "2025",
+      "endDate": "2029",
+      "summary": "Supervisor: Dr. Geoff Pleiss. Co-President of the Statistics Graduate Student Association (SGSA)."
     },
     {
       "institution": "University of Oxford",
@@ -45,12 +24,11 @@
       "url": "https://www.ox.ac.uk/",
       "area": "Statistical Sciences",
       "studyType": "MSc (Distinction)",
-      "startDate": "2023-09-01",
-      "endDate": "2024-08-31",
-      "summary": "Dissertation: Conditional Diffusion Models for Structure-Based Drug Design with Considerations for Physical Plausibility and a Celecoxib Rediscovery Case Study. Supervisor: Dr. Garrett M. Morris",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Dissertation on conditional diffusion models for structure-based drug design. Supervisor: Dr. Garrett M. Morris.",
       "highlights": [
-        "Improved the sensitivity and accuracy of the Python package PoseBusters in detecting physically implausible molecules.",
-        "Sports & Gym Officer, Green Templeton College. MSc cohort EDI Representative, Department of Statistics."
+        "Sports & Gym Officer, Green Templeton College. MSc cohort EDI Representative."
       ]
     },
     {
@@ -59,48 +37,9 @@
       "url": "https://www.uvic.ca/",
       "area": "Mathematics and Statistics",
       "studyType": "BSc (Distinction)",
-      "startDate": "2018-09-01",
-      "endDate": "2023-06-30",
-      "summary": "97.52% overall course average, GPA: 9.00/9.00. Supervisor: Dr. Julie Zhou"
-    }
-  ],
-
-  "work": [
-    {
-      "name": "ALVITUR Analytics and Data Solutions",
-      "position": "Founder",
-      "startDate": "2024-11-01",
-      "endDate": "Present",
-      "summary": "Independent statistical consulting and data analysis.",
-      "highlights": [
-        "FFAW-Unifor: Developed mapping software, designed a quota allocation algorithm for the snow crab fishery, automated reporting pipelines, analyzed a bycatch mitigation experiment, and analyzed vessel satellite data related to the Atlantic cod collapse. This work is contributing to three co-authored manuscripts.",
-        "Devinci Cycles: Web-scraped retailer and competitor inventory data to support SKU arrival timing and quantity decisions.",
-        "Chinook Business Advisory: Developing computational tools to automate company valuation and feasibility analyses."
-      ]
-    },
-    {
-      "name": "Outlier AI",
-      "position": "Freelance AI Mathematics Domain Expertise Developer",
-      "startDate": "2024-09-01",
-      "endDate": "2024-12-31",
-      "summary": "Contributed supervised and reinforcement learning feedback to improve model performance on mathematical reasoning tasks."
-    },
-    {
-      "name": "Lightricity Ltd.",
-      "position": "Technology Prototype Development Intern",
-      "startDate": "2024-06-01",
-      "endDate": "2024-06-30",
-      "summary": "Developed Python-based tools to analyze and optimize photovoltaic cell test equipment.",
-      "highlights": [
-        "Reduced variance in illumination distribution, improving light uniformity by 43%."
-      ]
-    },
-    {
-      "name": "Mountain City Cycle",
-      "position": "Service and Operations Associate",
-      "startDate": "2014-01-01",
-      "endDate": "2023-12-31",
-      "summary": "Managed day-to-day operations, inventory, and customer service; supervised staff during vacation coverage."
+      "startDate": "2018",
+      "endDate": "2023",
+      "summary": "Overall average 97.52%, GPA 9.00/9.00. Supervisor: Dr. Julie Zhou."
     }
   ]
 }
