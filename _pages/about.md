@@ -13,14 +13,14 @@ profile:
     <p>University of British Columbia</p>
     <p>Vancouver, BC, Canada</p>
 
-news: true
-selected_papers: true
+news: false
+selected_papers: false
 social: true
 ---
 
 I am a PhD student in Statistics at the University of British Columbia, where my research focuses on developing and applying advanced probabilistic methods to challenging problems in computational chemistry and drug discovery.
 
-My research interests span **generative models**, **uncertainty quantification**, **variational inference**, and **Bayesian optimization**, with particular applications to structure-based drug design and molecular modeling.
+My research interests span **generative models**, **uncertainty quantification**, **variational inference**, and **Bayesian optimization**, with particular applications to structure-based drug design and molecular modelling.
 
 Previously, I completed my MSc in Statistical Science at the University of Oxford, where I worked with Garrett Morris on conditional diffusion models for structure-based drug design. I earned my BSc in Mathematics and Statistics from the University of Victoria, working with Julie Zhou on statistical methodology.
 
