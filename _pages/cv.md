@@ -7,5 +7,5 @@ nav_order: 5
 cv_pdf: Isaac_Rankin_CV.pdf # you can also use external links here
 description: See the PDF for a full list of work experience, awards, and additional details.
 toc:
-  sidebar: false # It was left
+  sidebar: left # or false
 ---
