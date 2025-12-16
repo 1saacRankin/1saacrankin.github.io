@@ -5,12 +5,13 @@ title: Publications
 description: 
 nav: true
 nav_order: 2
+toc:
+  sidebar: left
 ---
-
 
 <hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<h2 class="category">Preprints</h2>
+<h2 class="category" id="preprints">Preprints</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=preprint] %}
@@ -18,7 +19,7 @@ nav_order: 2
 
 <hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<h2 class="category">Journal Articles</h2>
+<h2 class="category" id="journal-articles">Journal Articles</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=journal] %}
@@ -26,7 +27,7 @@ nav_order: 2
 
 <hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<h2 class="category">Conference Papers</h2>
+<h2 class="category" id="conference-papers">Conference Papers</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=conference] %}
@@ -34,7 +35,7 @@ nav_order: 2
 
 <hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<h2 class="category">Workshops</h2>
+<h2 class="category" id="workshops">Workshops</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=workshop] %}
@@ -42,7 +43,7 @@ nav_order: 2
 
 <hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<h2 class="category">Posters</h2>
+<h2 class="category" id="posters">Posters</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=poster] %}
