@@ -41,5 +41,39 @@
       "endDate": "2023",
       "summary": "Overall average 97.52%, GPA 9.00/9.00. Supervisor: Dr. Julie Zhou."
     }
+  ],
+
+  "awards": [
+    {
+      "title": "Four-Year Doctoral Fellowship",
+      "date": "2025–2029",
+      "awarder": "University of British Columbia",
+      "summary": "$72,800"
+    },
+    {
+      "title": "Entrance Scholarship",
+      "date": "2025",
+      "awarder": "University of British Columbia",
+      "summary": "$8,500"
+    },
+    {
+      "title": "Third Prize, Undergraduate Poster Presentation Competition",
+      "date": "2023",
+      "awarder": "11th Annual Canadian Statistics Student Conference",
+      "summary": ""
+    },
+    {
+      "title": "Undergraduate Student Research Award",
+      "date": "2023",
+      "awarder": "NSERC / University of Victoria",
+      "summary": "$6,000"
+    },
+    
+    {
+      "title": "Undergraduate Student Research Award",
+      "date": "2022",
+      "awarder": "NSERC / University of Victoria",
+      "summary": "$6,000"
+    }
   ]
 }
