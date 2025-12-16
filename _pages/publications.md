@@ -7,21 +7,32 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
-
 ## Journal Articles
+
+<div class="publications">
 {% bibliography --query @*[type=journal] %}
+</div>
 
 ## Conference Papers
+
+<div class="publications">
 {% bibliography --query @*[type=conference] %}
+</div>
 
 ## Workshops
+
+<div class="publications">
 {% bibliography --query @*[type=workshop] %}
+</div>
 
 ## Posters
+
+<div class="publications">
 {% bibliography --query @*[type=poster] %}
+</div>
 
 ## Preprints
-{% bibliography --query @*[type=preprint] %}
 
+<div class="publications">
+{% bibliography --query @*[type=preprint] %}
 </div>
