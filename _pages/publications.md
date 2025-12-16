@@ -10,18 +10,18 @@ nav_order: 2
 <div class="publications">
 
 ## Journal Articles
-{% bibliography --query="type=journal" %}
+{% bibliography --query @*[type=journal] %}
 
 ## Conference Papers
-{% bibliography --query="type=conference" %}
+{% bibliography --query @*[type=conference] %}
 
 ## Workshops
-{% bibliography --query="type=workshop" %}
+{% bibliography --query @*[type=workshop] %}
 
 ## Posters
-{% bibliography --query="type=poster" %}
+{% bibliography --query @*[type=poster] %}
 
 ## Preprints
-{% bibliography --query="type=preprint" %}
+{% bibliography --query @*[type=preprint] %}
 
 </div>
